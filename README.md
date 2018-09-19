@@ -15,3 +15,6 @@ Generate PUT, POST, and DELETE requests against the mock API and note that chang
 ## Hosting
 
 For hosting info, check out [json-server-heroku](https://github.com/jesperorb/json-server-heroku).
+
+# mock-api
+
